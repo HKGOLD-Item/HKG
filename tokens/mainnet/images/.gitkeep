@@ -1,0 +1,14 @@
+[
+  {
+    "symbol": "HKG",
+    "name": "HKGOLD",
+    "address": "TAgeUJSjREtf7UVp8Jg3Z2ShYW2nRhs5er",
+    "decimals": 12,
+    "logoURI": "https://raw.githubusercontent.com/HKGOLD-Item/HKG/main/tokens/mainnet/images/TAgeUJSjREtf7UVp8Jg3Z2ShYW2nRhs5er.png",
+    "officialSite": "https://hkgold.notion.site",
+    "market": {
+      "coingecko": "",
+      "coinmarketcap": ""
+    }
+  }
+]
